@@ -3,6 +3,7 @@ bert2bert_samsum/
 # model artifacts
 Project_3_LLM/bert2bert_samsum_final/
 Project_3_LLM/mlruns/
+Project_3_LLM/bert2bert_samsum
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

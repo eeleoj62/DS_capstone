@@ -1,3 +1,7 @@
+# powerpoints
+*.pptx
+*.ppt
+
 # custom project rules
 # Ignore large local CSV data files
 *.csv
